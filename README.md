@@ -10,7 +10,7 @@ I’m currently pursuing Masters in Computer Science
 
 💬 Ask me about React, Java, ReactJS, React Native, Python, Tableau, PowerBI, SQL
 
-📄 Reach out to me on Linkedin 
+📄 Reach out to me on Linkedin https://www.linkedin.com/in/mohi-mishra/
 
 ⚡ Fun fact I love Dogs 🐶❤️
 
