@@ -30,6 +30,7 @@ I’m currently pursuing Masters in Computer Science
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![javascript](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra016&layout=compact&theme=blue-green)
 
