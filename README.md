@@ -33,7 +33,7 @@ I’m currently pursuing Masters in Computer Science
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra016&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra016&layout=compact&theme=blue-green)
 
 
 <!--
